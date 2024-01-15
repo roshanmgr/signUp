@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573534181601",
+    "project_id": "aau-bolam",
+    "storage_bucket": "aau-bolam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573534181601:android:ff08fcc0054c991cdbbfa0",
+        "android_client_info": {
+          "package_name": "com.example.aaubolam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZRlv8ynlOz4-BobAa7KAXichcUbjSVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
